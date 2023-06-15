@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/boruei-chen/react-hook-form-materials/compare/v1.1.0...v1.1.1) (2023-06-15)
+
+
+### Bug Fixes
+
+* 移除 Sample component ([3a978f4](https://github.com/boruei-chen/react-hook-form-materials/commit/3a978f41b60919af736c47e4e85dbff35f1b6176))
+
 # [1.1.0](https://github.com/boruei-chen/react-hook-form-materials/compare/v1.0.0...v1.1.0) (2023-06-15)
 
 
