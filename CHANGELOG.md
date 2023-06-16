@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/boruei-chen/react-hook-form-materials/compare/v1.1.1...v1.2.0) (2023-06-16)
+
+
+### Features
+
+* Form/Textbox component ([8a965ca](https://github.com/boruei-chen/react-hook-form-materials/commit/8a965ca2809883e7f928030eedb6b5c3880657a5))
+
 ## [1.1.1](https://github.com/boruei-chen/react-hook-form-materials/compare/v1.1.0...v1.1.1) (2023-06-15)
 
 
