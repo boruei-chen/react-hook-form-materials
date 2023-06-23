@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/boruei-chen/react-hook-form-materials/compare/v1.2.0...v1.3.0) (2023-06-23)
+
+
+### Features
+
+* Form/Textarea component ([c94d90d](https://github.com/boruei-chen/react-hook-form-materials/commit/c94d90dc8bee37f7bf7cc7439e7b2bb934e17f45))
+
 # [1.2.0](https://github.com/boruei-chen/react-hook-form-materials/compare/v1.1.1...v1.2.0) (2023-06-16)
 
 
