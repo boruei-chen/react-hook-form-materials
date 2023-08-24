@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/boruei-chen/react-hook-form-materials/compare/v1.3.0...v1.4.0) (2023-08-24)
+
+
+### Features
+
+* Form/Select component ([cbeebbc](https://github.com/boruei-chen/react-hook-form-materials/commit/cbeebbc18d541f703dffb2a3fd2e7f16a1d3f301))
+
 # [1.3.0](https://github.com/boruei-chen/react-hook-form-materials/compare/v1.2.0...v1.3.0) (2023-06-23)
 
 
