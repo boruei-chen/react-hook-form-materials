@@ -1,3 +1,10 @@
+# [1.5.0](https://github.com/boruei-chen/react-hook-form-materials/compare/v1.4.0...v1.5.0) (2023-08-25)
+
+
+### Features
+
+* Form/Checkbox component ([049757e](https://github.com/boruei-chen/react-hook-form-materials/commit/049757e37926ea00312edeb7727650d52c8f53ec))
+
 # [1.4.0](https://github.com/boruei-chen/react-hook-form-materials/compare/v1.3.0...v1.4.0) (2023-08-24)
 
 
