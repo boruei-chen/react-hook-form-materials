@@ -1,3 +1,10 @@
+# [1.6.0](https://github.com/boruei-chen/react-hook-form-materials/compare/v1.5.0...v1.6.0) (2023-09-03)
+
+
+### Features
+
+* Form/Radio component ([e82cd49](https://github.com/boruei-chen/react-hook-form-materials/commit/e82cd491b45061a69f30a8407a3dcf34af8d5909))
+
 # [1.5.0](https://github.com/boruei-chen/react-hook-form-materials/compare/v1.4.0...v1.5.0) (2023-08-25)
 
 
