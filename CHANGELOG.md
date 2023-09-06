@@ -1,3 +1,10 @@
+# [1.7.0](https://github.com/boruei-chen/react-hook-form-materials/compare/v1.6.0...v1.7.0) (2023-09-06)
+
+
+### Features
+
+* Form/Password component ([ab286e7](https://github.com/boruei-chen/react-hook-form-materials/commit/ab286e776bbb29d97ff98a4fd9d644b7df5bdeb0))
+
 # [1.6.0](https://github.com/boruei-chen/react-hook-form-materials/compare/v1.5.0...v1.6.0) (2023-09-03)
 
 
