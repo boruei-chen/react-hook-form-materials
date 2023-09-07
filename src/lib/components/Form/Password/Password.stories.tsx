@@ -77,7 +77,10 @@ WithFormTemplate.decorators = [
 WithFormTemplate.args = {
   label: 'Label text',
   toggleMask: true,
-  placeholder: 'Placeholder text'
+  placeholder: 'Placeholder text',
+  rules: {
+    required: 'This field is required'
+  }
 };
 
 export default Meta;
