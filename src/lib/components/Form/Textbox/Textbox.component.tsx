@@ -4,11 +4,15 @@ import { Textbox as $Textbox } from '@boruei.chen/materials';
 import { Props } from './Textbox.types';
 
 const Textbox = <TFieldValues extends FieldValues>(props: Props<TFieldValues>) => {
-  const { name, rules, shouldUnregister, defaultValue, control, ...restProps } = props;
-  const { field } = useController({ name, rules, shouldUnregister, defaultValue, control });
+  const { name, rules, shouldUnregister, defaultValue, control, errorMessage, ...restProps } = props;
+  const { field, fieldState } = useController({ name, rules, shouldUnregister, defaultValue, control });
 
   return (
-    <$Textbox {...restProps} {...field} />
+    <$Textbox
+      {...restProps}
+      {...field}
+      errorMessage={fieldState.error?.message ?? errorMessage}
+    />
   );
 };
 
