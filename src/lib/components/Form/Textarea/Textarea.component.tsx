@@ -12,4 +12,6 @@ const Textarea = <TFieldValues extends FieldValues>(props: Props<TFieldValues>) 
   );
 };
 
+Textarea.displayName = 'RHFTextarea';
+
 export default Textarea;
