@@ -12,4 +12,6 @@ const Textbox = <TFieldValues extends FieldValues>(props: Props<TFieldValues>) =
   );
 };
 
+Textbox.displayName = 'RHFTextbox';
+
 export default Textbox;
