@@ -1,3 +1,10 @@
+## [1.7.6](https://github.com/boruei-chen/react-hook-form-materials/compare/v1.7.5...v1.7.6) (2023-09-07)
+
+
+### Bug Fixes
+
+* 整合 Field error message ([04e50b4](https://github.com/boruei-chen/react-hook-form-materials/commit/04e50b4f0863e5fc6cc258b039fb01addb6720cb))
+
 ## [1.7.5](https://github.com/boruei-chen/react-hook-form-materials/compare/v1.7.4...v1.7.5) (2023-09-07)
 
 
