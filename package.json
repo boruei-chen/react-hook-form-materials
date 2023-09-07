@@ -1,6 +1,6 @@
 {
   "name": "@boruei.chen/react-hook-form-materials",
-  "version": "1.7.4",
+  "version": "1.7.5",
   "description": "BRC Materials with React Hook Form",
   "homepage": "https://github.com/boruei-chen/react-hook-form-materials#readme",
   "main": "dist/cjs/index.js",

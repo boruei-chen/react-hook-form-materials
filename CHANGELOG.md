@@ -1,3 +1,10 @@
+## [1.7.5](https://github.com/boruei-chen/react-hook-form-materials/compare/v1.7.4...v1.7.5) (2023-09-07)
+
+
+### Bug Fixes
+
+* 補上 Component display name ([9c142e8](https://github.com/boruei-chen/react-hook-form-materials/commit/9c142e87af7a8e34dbb4bee532bbad107218edbc))
+
 ## [1.7.4](https://github.com/boruei-chen/react-hook-form-materials/compare/v1.7.3...v1.7.4) (2023-09-07)
 
 
