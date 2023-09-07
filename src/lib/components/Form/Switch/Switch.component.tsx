@@ -12,4 +12,6 @@ const Switch = <TFieldValues extends FieldValues>(props: Props<TFieldValues>) =>
   );
 };
 
+Switch.displayName = 'RHFSwitch';
+
 export default Switch;
