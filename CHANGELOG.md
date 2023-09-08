@@ -1,3 +1,10 @@
+## [1.7.9](https://github.com/boruei-chen/react-hook-form-materials/compare/v1.7.8...v1.7.9) (2023-09-08)
+
+
+### Bug Fixes
+
+* 升級 [@boruei](https://github.com/boruei).chen/materials (package) ([bc6107e](https://github.com/boruei-chen/react-hook-form-materials/commit/bc6107e8bbf0798e56d90ca5a4f6b95cdc31cbad))
+
 ## [1.7.8](https://github.com/boruei-chen/react-hook-form-materials/compare/v1.7.7...v1.7.8) (2023-09-07)
 
 
