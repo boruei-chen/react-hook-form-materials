@@ -1,7 +1,6 @@
 import React from 'react';
 import { useController, FieldValues } from 'react-hook-form';
 import { Radio as $Radio } from '@boruei.chen/materials';
-import Group from './Group';
 import { Props } from './Radio.types';
 
 const Radio = <TFieldValues extends FieldValues>(props: Props<TFieldValues>) => {
@@ -28,4 +27,4 @@ const Radio = <TFieldValues extends FieldValues>(props: Props<TFieldValues>) => 
 
 Radio.displayName = 'RHFRadio';
 
-export default Object.assign(Radio, { Group });
+export default Radio;
