@@ -1,7 +1,6 @@
 import React from 'react';
 import { useController, FieldValues } from 'react-hook-form';
 import { Checkbox as $Checkbox } from '@boruei.chen/materials';
-import Group from './Group';
 import { Props } from './Checkbox.types';
 
 const Checkbox = <TFieldValues extends FieldValues>(props: Props<TFieldValues>) => {
@@ -17,4 +16,4 @@ const Checkbox = <TFieldValues extends FieldValues>(props: Props<TFieldValues>) 
 
 Checkbox.displayName = 'RHFCheckbox';
 
-export default Object.assign(Checkbox, { Group });
+export default Checkbox;
