@@ -5,4 +5,5 @@ export { default as Textarea } from './lib/components/Form/Textarea';
 export { default as Password } from './lib/components/Form/Password';
 export { default as Select } from './lib/components/Form/Select';
 export { default as Checkbox } from './lib/components/Form/Checkbox';
+export { default as CheckboxGroup } from './lib/components/Form/CheckboxGroup';
 export { default as Radio } from './lib/components/Form/Radio';
