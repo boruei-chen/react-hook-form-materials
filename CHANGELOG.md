@@ -1,3 +1,10 @@
+# [1.10.0](https://github.com/boruei-chen/react-hook-form-materials/compare/v1.9.1...v1.10.0) (2023-09-11)
+
+
+### Features
+
+* 更新 README.md ([4f919b1](https://github.com/boruei-chen/react-hook-form-materials/commit/4f919b1cfbcfb5cd38df902e5d4b243278c5ca0a))
+
 ## [1.9.1](https://github.com/boruei-chen/react-hook-form-materials/compare/v1.9.0...v1.9.1) (2023-09-11)
 
 
