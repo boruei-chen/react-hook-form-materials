@@ -6,3 +6,4 @@ export { default as Select } from './lib/components/Form/Select';
 export { default as Checkbox } from './lib/components/Form/Checkbox';
 export { default as CheckboxGroup } from './lib/components/Form/CheckboxGroup';
 export { default as Radio } from './lib/components/Form/Radio';
+export { default as RadioGroup } from './lib/components/Form/RadioGroup';
