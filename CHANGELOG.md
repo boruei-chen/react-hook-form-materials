@@ -1,3 +1,10 @@
+# [1.9.0](https://github.com/boruei-chen/react-hook-form-materials/compare/v1.8.2...v1.9.0) (2023-09-11)
+
+
+### Features
+
+* Form/RadioGroup component ([b6c7abc](https://github.com/boruei-chen/react-hook-form-materials/commit/b6c7abca0fb48944ab0aa6a1a8d404e22b05aecf))
+
 ## [1.8.2](https://github.com/boruei-chen/react-hook-form-materials/compare/v1.8.1...v1.8.2) (2023-09-11)
 
 
