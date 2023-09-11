@@ -1,3 +1,10 @@
+## [1.8.1](https://github.com/boruei-chen/react-hook-form-materials/compare/v1.8.0...v1.8.1) (2023-09-11)
+
+
+### Bug Fixes
+
+* 移除 Form/Checkbox component 目錄下的 Group component ([e57a7a0](https://github.com/boruei-chen/react-hook-form-materials/commit/e57a7a0184c4467c0f5b75940f6fd3cc85e3a052))
+
 # [1.8.0](https://github.com/boruei-chen/react-hook-form-materials/compare/v1.7.9...v1.8.0) (2023-09-11)
 
 
