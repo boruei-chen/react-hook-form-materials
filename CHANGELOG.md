@@ -1,3 +1,10 @@
+## [1.8.2](https://github.com/boruei-chen/react-hook-form-materials/compare/v1.8.1...v1.8.2) (2023-09-11)
+
+
+### Bug Fixes
+
+* 調整單元測試 ([d6e59e0](https://github.com/boruei-chen/react-hook-form-materials/commit/d6e59e0a084b48e6b80f956f95e6b2f68629d4d2))
+
 ## [1.8.1](https://github.com/boruei-chen/react-hook-form-materials/compare/v1.8.0...v1.8.1) (2023-09-11)
 
 
