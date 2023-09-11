@@ -1,3 +1,10 @@
+# [1.8.0](https://github.com/boruei-chen/react-hook-form-materials/compare/v1.7.9...v1.8.0) (2023-09-11)
+
+
+### Features
+
+* Form/CheckboxGroup component ([86886b8](https://github.com/boruei-chen/react-hook-form-materials/commit/86886b88a6b3ca89b378cf13f5a4f84d55db6f32))
+
 ## [1.7.9](https://github.com/boruei-chen/react-hook-form-materials/compare/v1.7.8...v1.7.9) (2023-09-08)
 
 
